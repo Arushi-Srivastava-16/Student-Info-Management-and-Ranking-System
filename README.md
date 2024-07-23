@@ -21,6 +21,7 @@ The Student Information Management and Ranking System is an SAP ABAP module pool
 
 1. *Clone the Repository:*
    ```sh
+   https://github.com/Arushi-Srivastava-16/Student-Info-Management-and-Ranking-System.git
 
 
 2. *Create the Database Table:*
